@@ -104,7 +104,7 @@ if ($api) {
     </script>
 </head>
 <body>
-    <h1>ASCII CIRCLE API</h1>
+    <h1>ASCII CIRCLE API BOOOOOYA!</h1>
     <p><strong>HTML Mode</strong></p>
     <ul>
        <li>Circle of Radius 15 (Default Thickness of 1): <a href="index.php?api&amp;radius=15&amp;html">?api&amp;radius=15&amp;html</a></li> 
